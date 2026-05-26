@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Amir Torabi</h1>
 
 <h3 align="center">FullStack Developer • Laravel • Flutter • React • Node.js</h3>
@@ -96,4 +96,4 @@ WordPress • Git • Docker (basic) • Linux
 > "I don't just write code — I design systems that think."
 
 ---
-```
+
