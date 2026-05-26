@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=FullStack+Developer;Laravel+Backend+Engineer;Flutter+Mobile+Developer;React+Frontend+Lover;System+Architect+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=FullStack+Developer;Laravel+Backend+Engineer;Flutter+Mobile+Developer;System+Architect+Mindset" />
 </p>
 
 ---
